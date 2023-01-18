@@ -10,6 +10,7 @@ apply plugin: 'application'
 
 mainClassName = 'main.java.Main'
 
+b1 change 1
 
 // In this section you declare where to find the dependencies of your project
 repositories {
