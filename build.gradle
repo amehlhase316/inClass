@@ -13,6 +13,8 @@ mainClassName = 'main.java.Main'
 b1 change 1
 change on master 11
 
+computerB change
+
 // In this section you declare where to find the dependencies of your project
 repositories {
     jcenter()
